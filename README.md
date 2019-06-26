@@ -13,6 +13,8 @@
   
   Yeni müştəri gəldikdə müştərinin ödədiyi məbləğ gəlirlər cədvəlinə əlavə ediləcək. Həmçinin, İşçilər Fitness zalı üçün xərcləri əlavə edə biləcək. Məsələn, trenajora yeni ləvazimatlar alındıqda, təmizlik üçün məmulatlar alındıqda, bunlar xərclər cədvəlinə daxil edilməlidir. 
   
-  Admin istənilən vaxtda daxil olaraq gəlirlər və xərclər cədvəlini görə biləcək və müəyyən ayda gəlir və xərc fərqini görərək Xalis gəlirlərə baxa biləcək. 
+  Admin istənilən vaxtda daxil olaraq gəlirlər və xərclər cədvəlini görə biləcək və müəyyən ayda gəlir və xərc fərqini görərək Xalis gəlirlərə baxa biləcək. Bundan başqa, Admin satışları istənilən şəkildə filter edib axtara bilməlidir. Həm paketlərə, həm xidmətlərə, həm satış işçilərinə görə, həm tarixə görə satışları filter edib baxacaq.
   
   Admin yeni işçi yarada biləcək və onlara giriş üçün default parol verəcək. İşçilər ilk dəfə daxil olduqda yeni parol daxil etməli, daha sonra digər işləri görə bilməlidirlər. Satış baş verdikdə, satışı hansı işçinin daxil etdiyi qeyd edilməlidir. 
+  
+#### Deadline: 01 July 2019 09:00.
